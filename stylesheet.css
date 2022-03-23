@@ -1,0 +1,192 @@
+.container1 {
+
+}
+
+
+
+.row1 {
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.box-green {
+    background-color: green;
+    border-top-left-radius:     50px;
+    border-bottom-left-radius: 50px;
+    border: 2px solid black;
+    text-align: center;
+    text-justify: center;
+    
+    
+}
+
+.green-box-text {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.yellow-box-text {
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.yellow-box-text3 {
+    margin: 0;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.blue-box-text {
+    color: white;
+    /* margin: 0;
+    position: absolute;
+    top: 95%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ */
+}
+
+
+.box-blue {
+    background-color: blue;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.box-yellow {
+    padding: 0;
+}
+
+.box-yellow1 {
+    background-color: lightyellow;
+    height: 133.3px;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-top-right-radius: 50px;
+}
+
+.box-yellow2 {
+    background-color: yellow;
+    height: 133.3px;
+    border-right: 2px solid black;
+}
+
+.box-yellow3 {
+    background-color: rgb(73, 73, 3);
+    height: 133.3px;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom-right-radius: 50px;
+}
+
+
+.row2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 0;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+      list-style: none; 
+      text-align: center;
+
+
+}
+
+.card-header {
+    font-weight: 600;
+
+}
+
+.button-ex-2 {
+    width: 100%;
+}
+
+.month-text {
+    color: grey;
+    font-size: 0.8em;
+}
+
+.card-group {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.card-text {
+text-align: left;
+}
+
+.btn-group {
+    display: flex;
+    justify-content: space-between;
+    width: 8px;
+    height: 35px;
+    text-align: center;
+}
+
+
+.button-and-text-group {
+    display: flex;
+    
+    justify-content: space-between;
+    align-content: center;
+    align-items: baseline;
+
+
+}
+
+
+.card2 {
+    border: 0.2px solid #80808024;
+}
+
+
+.container3 { 
+display: flex;
+flex-direction: row;
+margin: 0;
+padding: 0;
+}
+
+
+.card-post1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.card6 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.card-body3 {
+text-align: left;
+}
